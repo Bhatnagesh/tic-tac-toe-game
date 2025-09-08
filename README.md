@@ -33,10 +33,12 @@ Players take turns as **O** and **X**, and the game detects winners, draws, and 
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
 
-2.Open the folder
+2. Open the folder
+   ```bash
    cd tic-tac-toe
-3.Run the game
-  Just open index.html in your browser 🚀
+3. Run the game
+
+    Just open index.html in your browser 🚀
 ---
 
 ## 🎯 Game Rules
