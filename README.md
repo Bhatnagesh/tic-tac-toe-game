@@ -15,8 +15,8 @@ Players take turns as **O** and **X**, and the game detects winners, draws, and 
 ---
 
 ## 🖥️ Demo
-![Game Screenshot]("https://github.com/Bhatnagesh/tic-tac-toe-game/blob/main/img.png")  
-*(Add a screenshot of your game here, e.g., take a screenshot of the board with a winner message)*
+![Game Screenshot](https://raw.githubusercontent.com/Bhatnagesh/tic-tac-toe-game/main/img.png)
+
 
 ---
 
