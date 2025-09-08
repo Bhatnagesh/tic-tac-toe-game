@@ -49,6 +49,7 @@ Players take turns clicking empty boxes.
 First player to align 3 symbols (row/column/diagonal) wins 🏆
 
 If all 9 boxes are filled without a winner → Match Draw
+
 ---
 
 ## 🛠️ Technologies Used
